@@ -1,2 +1,2 @@
 # Audio-Recognization
-this is implementation of prject assigned on fiverr
+this is implementation of project assigned on fiverr
